@@ -1,1 +1,1 @@
-# EasyCalculatorPython
+Der Code erstellt einen einfachen Taschenrechner in Python mit Hilfe des Tkinter-Moduls. Es wird ein Hauptfenster erstellt und der Titel wird geändert. Das Eingabefeld-Widget wird erstellt und Schaltflächen für arithmetische Operationen (+, -, *, /) und Ziffern (0-9) werden erstellt und mit den jeweiligen Click-Events verknüpft, um die Funktionalität des Taschenrechners zu realisieren. Schließlich wird eine Schaltfläche zum Löschen des Eingabefelds hinzugefügt.
